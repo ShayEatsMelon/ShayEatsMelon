@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @ShayEatsMelon
-- 👀 I’m interested in melons
-- 🌱 I’m currently learning melons
-- 💞️ I’m looking to collaborate on melon farms
-- 📫 How to reach me call my melon manager: 696969420
+- 👋 Hi, I’m Shayan
+- 👀 I’m interested in Python, web dev, game dev
+- 🌱 I’m currently learning Python
+- 💞️ I’m looking to collaborate on web or game development projects
+- 📫 How to reach me- send me a message
 
 <!---
 ShayEatsMelon/ShayEatsMelon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
