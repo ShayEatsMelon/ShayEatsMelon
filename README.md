@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Shayan
-- 👀 I’m interested in Python, web dev, game dev
-- 🌱 I’m currently learning Python
+- 👀 I’m interested in Python, web dev, Javascript
+- 🌱 I’m currently learning Javascript
 - 💞️ I’m looking to collaborate on web or game development projects
 - 📫 How to reach me- send me a message
 
